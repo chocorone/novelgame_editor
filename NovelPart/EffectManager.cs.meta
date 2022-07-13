@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: ba811de1353d6084283e61393ccc0934
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - defaultShader: {fileID: 10753, guid: 0000000000000000f000000000000000, type: 0}
+  - noiseShader: {fileID: 4800000, guid: 9d0bac5ffebd8d342bd66fb9fccbb907, type: 3}
+  - mosaicSahder: {fileID: 4800000, guid: 89e4300a29821334f8554fb2e7d32e53, type: 3}
+  - sepiaShader: {fileID: 4800000, guid: c9b02336eac35af438305a84b6d293b6, type: 3}
+  - grayShader: {fileID: 4800000, guid: 3af384f1a028dbe4a8a29a6f9b23e27d, type: 3}
+  - jaggyShader: {fileID: 4800000, guid: 6f7e83ca6a32cf64fab4232ae0d375f0, type: 3}
+  - holoShader: {fileID: 4800000, guid: c66c59cccece65944a57d695290d1d0f, type: 3}
+  - choromaticShader: {fileID: 4800000, guid: 4054a509a5f9c4a4ebb45204d97e496d, type: 3}
+  - blurShader: {fileID: 4800000, guid: bd69437a1a309414d885d69522a84d34, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
